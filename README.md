@@ -1,2 +1,5 @@
-# FaceRecognition
-This project is using CIFAR-10 dataset consists of 60000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+# Face Recognition using Custom dataset
+A simple implementation of cascadeClassifier of OpenCV algorithm to build real-timr face recognition system
+![faceRecognition](https://user-images.githubusercontent.com/44967072/156584360-0e6e1ebb-9e87-49ec-8949-894c73613ee0.gif)
+## Steps to build your custom system
+## 
