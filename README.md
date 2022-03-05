@@ -10,4 +10,4 @@ Open <code>train_model.py</code> and run it to generate your <code>trainer.yml</
 Run <code>recognizer.py</code> and look at the camera to see if your face recognized well, 
 
 ## References
-- [open cv](https://docs.opencv.org/3.1.0/d7/d8b/tutorial_py_face_detection.html#gsc.tab=0)
+- [OpenCV Library](https://docs.opencv.org/3.1.0/d7/d8b/tutorial_py_face_detection.html#gsc.tab=0)
